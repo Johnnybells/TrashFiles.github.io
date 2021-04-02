@@ -5,7 +5,5 @@
     <script src="index.js"></script>
 </head>
 <body>
-    <h1>Hey</h1>
-    <a href="Test/Test.html">Test</a>
 </body>
 </html>
